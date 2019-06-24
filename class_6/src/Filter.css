@@ -1,0 +1,12 @@
+.Filter {
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.Filter-label {
+    margin-right: 10px;
+}
+
+.Filter-input {
+    flex-grow: 1;
+}
