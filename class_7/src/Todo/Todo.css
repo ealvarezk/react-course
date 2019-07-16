@@ -1,0 +1,13 @@
+.Todo {
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+}
+
+.Todo-description {
+    flex-grow: 1;
+}
+
+.Todo-description_completed {
+    text-decoration: line-through;
+}
