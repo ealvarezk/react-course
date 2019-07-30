@@ -1,0 +1,6 @@
+.Todos {
+    width: 100%;
+    padding-inline-start: 0;
+    height: 300px;
+    overflow: auto;
+}
